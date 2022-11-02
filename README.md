@@ -1,7 +1,7 @@
 
 # Hello! 👋, I'm Jhon Carlos Acevedo Mendoza, welcome to my repository.
 
-I am a frontend developer from 🇨🇴 Colombia, I like to learn things independently and work collaboratively, I studied systems engineering at Francisco de Paula Santender University(UFPS).
+I am a software developer from Colombia, I like to learn things independently and work collaboratively, I studied systems engineering at Francisco de Paula Santender University(UFPS).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhoncarlosam-uni)](https://github.com/jhoncarlosam-uni/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhoncarlosam-uni)](https://github.com/jhoncarlosam-uni/github-readme-stats)
 
